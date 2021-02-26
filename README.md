@@ -1,5 +1,5 @@
 # GDV 1 - Anki Cards
-Decks are orderd the following way `GV1::<lecture>`.
+Decks are orderd the following way `GDV1::<lecture>`.
 
 Contains the following lectures:
 1. Pipeline
